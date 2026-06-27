@@ -1,6 +1,6 @@
 # be-piped
 
-Attribute-based wrapper around stream-orator.
+Attribute-based wrapper around the browser's [partial update support](https://developer.chrome.com/blog/declarative-partial-updates).
 
 ```html
 <article be-piped='{"resource":"https://link.springer.com/article/10.1007/s00300-003-0563-3"}'>
